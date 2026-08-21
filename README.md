@@ -24,3 +24,17 @@ Email: info@webline.cloud
 
 ## Removed
 No `acservices.shop` reference is included.
+
+
+## Logo
+Upload your logo to the GitHub repository at:
+
+`assets/logo.png`
+
+The site automatically uses that image in the header and footer. If the logo is missing, the `W` fallback remains available.
+
+## Readability update
+This version increases body, service, course, tool and navigation typography while keeping the premium layout.
+
+Footer credit:
+`Designed by Navneet Kumar`
